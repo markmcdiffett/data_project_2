@@ -1,0 +1,1106 @@
+Country	Culture_sub_heading
+China 	  Tourism in China 
+China 	  Literature 
+China 	  Cuisine 
+China 	  Music 
+China 	  Cinema 
+China 	  Fashion 
+China 	  Sports 
+India 	  Visual art 
+India 	  Architecture 
+India 	  Literature 
+India 	  Performing arts and media 
+India 	  Society 
+India 	  Education 
+India 	  Clothing 
+India 	  Cuisine 
+India 	  Sports and recreation 
+United_States 	  Literature, philosophy, and visual art 
+United_States 	  Food 
+United_States 	  Music 
+United_States 	  Cinema 
+United_States 	  Sports 
+United_States 	  Mass media 
+Indonesia 	  Art and architecture 
+Indonesia 	  Music, dance and clothing 
+Indonesia 	  Theatre and cinema 
+Indonesia 	  Mass media and literature 
+Indonesia 	  Cuisine 
+Indonesia 	  Sports 
+Brazil 	  Architecture 
+Brazil 	  Music 
+Brazil 	  Literature 
+Brazil 	  Cuisine 
+Brazil 	  Cinema 
+Brazil 	  Theatre 
+Brazil 	  Visual arts 
+Brazil 	  Sports 
+Nigeria 	  Literature 
+Nigeria 	  Music And Festivals 
+Nigeria 	  Cinema 
+Nigeria 	  Comedy 
+Nigeria 	  Cuisine 
+Nigeria 	  Sport 
+Bangladesh 	  Visual arts 
+Bangladesh 	  Literature 
+Bangladesh 	  Women in Bangladesh 
+Bangladesh 	  Architecture 
+Bangladesh 	  Performing arts 
+Bangladesh 	  Textiles 
+Bangladesh 	  Cuisine 
+Bangladesh 	  Festivals 
+Bangladesh 	  Sports 
+Bangladesh 	  Media and cinema 
+Bangladesh 	  Museums and libraries 
+Russia 	  Art and architecture 
+Russia 	  Music 
+Russia 	  Literature and philosophy 
+Russia 	  Cuisine 
+Russia 	  Media 
+Russia 	  Sports 
+Mexico 	  Painting 
+Mexico 	  Sculpture 
+Mexico 	  Architecture 
+Mexico 	  Photography 
+Mexico 	  Literature 
+Mexico 	  Cinema 
+Mexico 	  Media 
+Mexico 	  Cuisine 
+Mexico 	  Music 
+Mexico 	  Sports 
+Japan 	  Art and architecture 
+Japan 	  Literature and philosophy 
+Japan 	  Performing arts 
+Japan 	  Customs and holidays 
+Japan 	  Cuisine 
+Japan 	  Media 
+Japan 	  Sports 
+Ethiopia 	  Naming 
+Ethiopia 	  Calendar 
+Ethiopia 	  Time 
+Ethiopia 	  Cuisine 
+Ethiopia 	  Media 
+Ethiopia 	  Music 
+Ethiopia 	  Sport 
+Egypt 	  Arts 
+Egypt 	  Literature 
+Egypt 	  Media 
+Egypt 	  Cinema 
+Egypt 	  Music 
+Egypt 	  Dances 
+Egypt 	  Museums 
+Egypt 	  Festivals 
+Egypt 	  Cuisine 
+Egypt 	  Sports 
+Vietnam 	  Literature 
+Vietnam 	  Music 
+Vietnam 	  Cuisine 
+Vietnam 	  Media 
+Vietnam 	  Holidays and festivals 
+Vietnam 	  Sports 
+Iran 	  Art 
+Iran 	  Architecture 
+Iran 	  Weaving 
+Iran 	  Literature 
+Iran 	  Philosophy 
+Iran 	  Mythology 
+Iran 	  Music 
+Iran 	  Theater 
+Iran 	  Cinema and animation 
+Iran 	  Observances 
+Iran 	  Public holidays 
+Iran 	  Cuisine 
+Iran 	  Sports 
+Iran 	  Media 
+Iran 	  Fashion and clothing 
+Turkey 	  Visual arts 
+Turkey 	  Literature and theatre 
+Turkey 	  Music and dance 
+Turkey 	  Architecture 
+Turkey 	  Cuisine 
+Turkey 	  Sports 
+Turkey 	  Media and cinema 
+Germany 	  Music 
+Germany 	  Art and design 
+Germany 	  Literature and philosophy 
+Germany 	  Media 
+Germany 	  Cuisine 
+Germany 	  Sports 
+France 	  Art 
+France 	  Architecture 
+France 	  Literature 
+France 	  Philosophy 
+France 	  Music 
+France 	  Cinema 
+France 	  Fashion 
+France 	  Media 
+France 	  Society 
+France 	  Cuisine 
+France 	  Sports 
+United_Kingdom 	  Literature 
+United_Kingdom 	  Music 
+United_Kingdom 	  Visual art 
+United_Kingdom 	  Cinema 
+United_Kingdom 	  Cuisine 
+United_Kingdom 	  Media 
+United_Kingdom 	  Philosophy 
+United_Kingdom 	  Sport 
+United_Kingdom 	  Symbols 
+Thailand 	  Art 
+Thailand 	  Architecture 
+Thailand 	  Literature 
+Thailand 	  Music and dance 
+Thailand 	  Entertainment 
+Thailand 	  Cuisine 
+Thailand 	  Units of measurement 
+South_Africa 	  Arts 
+South_Africa 	  Popular culture 
+South_Africa 	  Cuisine 
+South_Africa 	  Sports 
+Tanzania 	  Literature 
+Tanzania 	  Painting and sculpture 
+Tanzania 	  Sports 
+Tanzania 	  Cinema 
+Italy 	  Architecture 
+Italy 	  Visual art 
+Italy 	  Literature 
+Italy 	  Philosophy 
+Italy 	  Theatre 
+Italy 	  Music 
+Italy 	  Cinema 
+Italy 	  Sport 
+Italy 	  Fashion and design 
+Italy 	  Cuisine 
+Italy 	  Public holidays and festivals 
+Myanmar 	  Cuisine 
+Myanmar 	  Sport 
+Myanmar 	  Art 
+Myanmar 	  Media and communications 
+Myanmar 	  Internet 
+Myanmar 	  Film 
+South_Korea 	  Art 
+South_Korea 	  Architecture 
+South_Korea 	  Cuisine 
+South_Korea 	  Entertainment 
+South_Korea 	  Holidays 
+South_Korea 	  Sports 
+Colombia 	  Literature 
+Colombia 	  Visual arts 
+Colombia 	  Architecture 
+Colombia 	  Music 
+Colombia 	  Popular culture 
+Colombia 	  Cuisine 
+Colombia 	  Sports 
+Kenya 	  Media 
+Kenya 	  Literature 
+Kenya 	  Music 
+Kenya 	  Sports 
+Kenya 	  Cuisine 
+Spain 	  World Heritage Sites 
+Spain 	  Literature 
+Spain 	  Philosophy 
+Spain 	  Art 
+Spain 	  Sculpture 
+Spain 	  Cinema 
+Spain 	  Architecture 
+Spain 	  Music and dance 
+Spain 	  Cuisine 
+Spain 	  Sport 
+Spain 	  Public holidays and festivals 
+Argentina 	  Literature 
+Argentina 	  Music 
+Argentina 	  Theatre 
+Argentina 	  Cinema 
+Argentina 	  Visual arts 
+Argentina 	  Architecture 
+Argentina 	  Sport 
+Argentina 	  Cuisine 
+Argentina 	  National symbols 
+Algeria 	  Media 
+Algeria 	  Art 
+Algeria 	  Literature 
+Algeria 	  Music 
+Algeria 	  Cinema 
+Algeria 	  Cuisine 
+Algeria 	  Sports 
+Algeria 	  National animal 
+Sudan 	  Music 
+Sudan 	  Cinema and photography 
+Sudan 	  Sport 
+Sudan 	  Clothing 
+Uganda 	  Sport 
+Uganda 	  Cinema 
+Uganda 	  Media 
+Ukraine 	  Weaving and embroidery 
+Ukraine 	  Literature 
+Ukraine 	  Architecture 
+Ukraine 	  Music 
+Ukraine 	  Cinema 
+Ukraine 	  Media 
+Ukraine 	  Sport 
+Ukraine 	  Cuisine 
+Iraq 	  Music 
+Iraq 	  Art and architecture 
+Iraq 	  Media 
+Iraq 	  Cuisine 
+Iraq 	  Sport 
+Canada 	  Symbols 
+Canada 	  Literature 
+Canada 	  Visual arts 
+Canada 	  Music 
+Canada 	  Sports 
+Poland 	  Holidays and traditions 
+Poland 	  Music 
+Poland 	  Art 
+Poland 	  Architecture 
+Poland 	  Literature 
+Poland 	  Cuisine 
+Poland 	  Fashion and design 
+Poland 	  Cinema 
+Poland 	  Media 
+Poland 	  Sports 
+Morocco 	  Architecture 
+Morocco 	  Literature 
+Morocco 	  Music 
+Morocco 	  Media 
+Morocco 	  Cuisine 
+Morocco 	  Sport 
+Uzbekistan 	  Music 
+Uzbekistan 	  Education 
+Uzbekistan 	  Holidays 
+Uzbekistan 	  Cuisine 
+Uzbekistan 	  Sport 
+Saudi_Arabia 	  Religion in society 
+Saudi_Arabia 	  Islamic heritage sites 
+Saudi_Arabia 	  Dress 
+Saudi_Arabia 	  Arts and entertainment 
+Saudi_Arabia 	  Sport 
+Saudi_Arabia 	  Cuisine 
+Saudi_Arabia 	  Women 
+Peru 	  Visual Arts 
+Peru 	  Pre-Columbian art 
+Peru 	  Colonial art 
+Peru 	  Literature 
+Peru 	  Cuisine 
+Peru 	  Music 
+Peru 	  Cinema 
+Afghanistan 	  Architecture 
+Afghanistan 	  Art and ceramics 
+Afghanistan 	  Media and entertainment 
+Afghanistan 	  Music 
+Afghanistan 	  Cuisine 
+Afghanistan 	  Literature 
+Afghanistan 	  Holidays and festivals 
+Afghanistan 	  Sports 
+Malaysia 	  Fine arts 
+Malaysia 	  Cuisine 
+Malaysia 	  Media 
+Malaysia 	  Holidays and festivals 
+Malaysia 	  Sports 
+Angola 	  Cinema 
+Angola 	  Literature 
+Angola 	  Sports 
+Mozambique 	  Cultural identity 
+Mozambique 	  Arts 
+Mozambique 	  Cuisine 
+Mozambique 	  Media 
+Mozambique 	  Music 
+Mozambique 	  National holidays 
+Mozambique 	  Sport 
+Ghana 	  Food and drink 
+Ghana 	  Literature 
+Ghana 	  Adinkra 
+Ghana 	  Traditional clothing 
+Ghana 	  Modern clothing 
+Ghana 	  Music and dance 
+Ghana 	  Film 
+Ghana 	  Media 
+Ghana 	  Sports 
+Ghana 	  Cultural heritage and architecture 
+Ghana 	  National symbols 
+Ghana 	  National landmarks 
+Yemen 	  Media 
+Yemen 	  Theatre 
+Yemen 	  Sport 
+Yemen 	  World Heritage sites 
+Nepal 	  Society 
+Nepal 	  Symbols 
+Nepal 	  Art and architecture 
+Nepal 	  Literature and the performing arts 
+Nepal 	  Clothing 
+Nepal 	  Cuisine 
+Nepal 	  Sports and recreation 
+Venezuela 	  Architecture 
+Venezuela 	  Art 
+Venezuela 	  Literature 
+Venezuela 	  Music 
+Venezuela 	  Sport 
+Venezuela 	  Cuisine 
+Ivory_Coast 	  Music 
+Ivory_Coast 	  Media 
+Ivory_Coast 	  Sport 
+Ivory_Coast 	  Cuisine 
+Madagascar 	  Arts 
+Madagascar 	  Sport 
+Madagascar 	  Cuisine 
+Australia 	  Arts 
+Australia 	  Media 
+Australia 	  Cuisine 
+Australia 	  Sport and recreation 
+North_Korea 	  Art 
+North_Korea 	  World Heritage 
+North_Korea 	  Music 
+North_Korea 	  Literature 
+North_Korea 	  Media 
+North_Korea 	  Cuisine 
+North_Korea 	  Sports 
+Cameroon 	  Music and dance 
+Cameroon 	  Holidays 
+Cameroon 	  Cuisine 
+Cameroon 	  Fashion 
+Cameroon 	  Local arts and crafts 
+Cameroon 	  Literature 
+Cameroon 	  Films and literature 
+Cameroon 	  Sports 
+Niger 	  Festivals and cultural events 
+Niger 	  Guérewol festival 
+Niger 	  Cure Salée festival 
+Niger 	  Media 
+Taiwan 	  Arts 
+Taiwan 	  Popular culture 
+Taiwan 	  Sports 
+Taiwan 	  Calendar 
+Sri_Lanka 	  Food and festivals 
+Sri_Lanka 	  Visual, literary and performing arts 
+Sri_Lanka 	  Sport 
+Burkina_Faso 	  Arts and crafts 
+Burkina_Faso 	  Cuisine 
+Burkina_Faso 	  Cinema 
+Burkina_Faso 	  Sports 
+Burkina_Faso 	  Media 
+Burkina_Faso 	  Cultural festivals and events 
+Mali 	  Music 
+Mali 	  Literature 
+Mali 	  Sport 
+Mali 	  Cuisine 
+Mali 	  Media 
+Chile 	  Music and dance 
+Chile 	  Literature 
+Chile 	  Cuisine 
+Chile 	  Folklore 
+Chile 	  Mythology 
+Chile 	  Sports 
+Chile 	  Cultural heritage 
+Romania 	  Arts and monuments 
+Romania 	  Holidays, traditions, and cuisine 
+Romania 	  Sports 
+Kazakhstan 	  Literature 
+Kazakhstan 	  Music 
+Kazakhstan 	  Fine arts 
+Kazakhstan 	  Cuisine 
+Kazakhstan 	  Sport 
+Kazakhstan 	  Film 
+Kazakhstan 	  Media 
+Kazakhstan 	  UNESCO World Heritage sites 
+Kazakhstan 	  Public holidays 
+Malawi 	  Sports 
+Malawi 	  Cuisine 
+Zambia 	  Media 
+Zambia 	  Sports and games 
+Zambia 	  Music and dance 
+Zambia 	  Zamrock 
+Syria 	  Literature 
+Syria 	  Music 
+Syria 	  Media 
+Syria 	  Sports 
+Syria 	  Cuisine 
+Ecuador 	  Language 
+Ecuador 	  Music 
+Ecuador 	  Cuisine 
+Ecuador 	  Literature 
+Ecuador 	  Art 
+Ecuador 	  Sports 
+Ecuador 	  Health 
+Ecuador 	  Education 
+Ecuador 	  Sciences and research 
+Ecuador 	  Nature Index - Top 10 institutions from Ecuador 
+Ecuador 	  High Performance Computing 
+Netherlands 	  Art, architecture and philosophy 
+Netherlands 	  Southern Netherlands 
+Netherlands 	  Dutch value system 
+Netherlands 	  Dutch people and ecology 
+Netherlands 	  Music 
+Netherlands 	  Film and television 
+Netherlands 	  Sports 
+Netherlands 	  Cuisine 
+Netherlands 	  Colonial heritage 
+Senegal 	  Cuisine 
+Senegal 	  Music 
+Senegal 	  Cinema 
+Senegal 	  Media 
+Senegal 	  Hospitality 
+Senegal 	  Sport 
+Guatemala 	  Art 
+Guatemala 	  Literature 
+Guatemala 	  Cinema 
+Guatemala 	  Media and news 
+Guatemala 	  Music 
+Guatemala 	  Cuisine 
+Guatemala 	  Sports 
+Guatemala 	  Football 
+Guatemala 	  Futsal 
+Guatemala 	  Olympics 
+Guatemala 	  Other sports 
+Somalia 	  Cuisine 
+Somalia 	  Music 
+Somalia 	  Literature 
+Somalia 	  Sports 
+Somalia 	  Architecture 
+Zimbabwe 	  Arts 
+Zimbabwe 	  Cuisine 
+Zimbabwe 	  Sports 
+Zimbabwe 	  Media 
+Zimbabwe 	  Scouting 
+Zimbabwe 	  National symbols 
+Cambodia 	  Cuisine 
+Cambodia 	  Drinks 
+Cambodia 	  Women 
+Cambodia 	  Sports 
+Cambodia 	  Dance 
+Cambodia 	  Libraries 
+Cambodia 	  Music 
+South_Sudan 	  Music 
+South_Sudan 	  Games and sports 
+Rwanda 	  Cuisine 
+Rwanda 	  Sport 
+Guinea 	  Sports 
+Guinea 	  Polygamy 
+Guinea 	  Music 
+Guinea 	  Cuisine 
+Burundi 	  Media 
+Burundi 	  Education 
+Burundi 	  Science and technology 
+Benin 	  Arts 
+Benin 	  Customary names 
+Benin 	  Language 
+Benin 	  Cuisine 
+Benin 	  Sports 
+Bolivia 	  Education 
+Bolivia 	  Health 
+Bolivia 	  Sports 
+Tunisia 	  Painting 
+Tunisia 	  Literature 
+Tunisia 	  Music 
+Tunisia 	  Media 
+Tunisia 	  Sports 
+Haiti 	  Art 
+Haiti 	  Music and dance 
+Haiti 	  Literature 
+Haiti 	  Cinema 
+Haiti 	  Cuisine 
+Haiti 	  Architecture 
+Haiti 	  Museums 
+Haiti 	  Folklore and mythology 
+Haiti 	  National holidays and festivals 
+Haiti 	  Sports 
+Belgium 	  Fine arts 
+Belgium 	  Folklore 
+Belgium 	  Cuisine 
+Belgium 	  Sports 
+Cuba 	  Cuisine 
+Cuba 	  Literature 
+Cuba 	  Music 
+Cuba 	  Dance 
+Cuba 	  Sports 
+Jordan 	  Art and museums 
+Jordan 	  Literature 
+Jordan 	  Sports 
+Jordan 	  Cuisine 
+Greece 	  Visual arts 
+Greece 	  Architecture 
+Greece 	  Theatre 
+Greece 	  Literature 
+Greece 	  Philosophy 
+Greece 	  Music and dances 
+Greece 	  Cuisine 
+Greece 	  Cinema 
+Greece 	  Sports 
+Greece 	  Mythology 
+Greece 	  Public holidays and festivals 
+Czech_Republic 	  Art 
+Czech_Republic 	  Architecture 
+Czech_Republic 	  Literature 
+Czech_Republic 	  Music 
+Czech_Republic 	  Theatre 
+Czech_Republic 	  Film 
+Czech_Republic 	  Media 
+Czech_Republic 	  Cuisine 
+Czech_Republic 	  Sport 
+Dominican_Republic 	  Visual arts 
+Dominican_Republic 	  Literature 
+Dominican_Republic 	  Architecture 
+Dominican_Republic 	  Cuisine 
+Dominican_Republic 	  Music and dance 
+Dominican_Republic 	  Fashion 
+Dominican_Republic 	  National symbols 
+Dominican_Republic 	  Sports 
+Sweden 	  Music 
+Sweden 	  Architecture 
+Sweden 	  Media 
+Sweden 	  Literature 
+Sweden 	  Holidays 
+Sweden 	  Cuisine 
+Sweden 	  Cinema 
+Sweden 	  Fashion 
+Sweden 	  Sports 
+Portugal 	  Architecture 
+Portugal 	  Cinema 
+Portugal 	  Literature 
+Portugal 	  Cuisine 
+Portugal 	  Music 
+Portugal 	  Visual arts 
+Portugal 	  Sport 
+Azerbaijan 	  Music and folk dances 
+Azerbaijan 	  Literature 
+Azerbaijan 	  Folk art 
+Azerbaijan 	  Cuisine 
+Azerbaijan 	  Architecture 
+Azerbaijan 	  Visual art 
+Azerbaijan 	  Cinema 
+Azerbaijan 	  Television 
+Azerbaijan 	  Human rights in Azerbaijan 
+Azerbaijan 	  Sport 
+Hungary 	  Architecture 
+Hungary 	  Music 
+Hungary 	  Literature 
+Hungary 	  Cuisine 
+Hungary 	  Recreation 
+Hungary 	  Folk art 
+Hungary 	  Porcelain 
+Hungary 	  Sport 
+Hungary 	  Football 
+United_Arab_Emirates 	  Cuisine 
+United_Arab_Emirates 	  Sports 
+United_Arab_Emirates 	  Football 
+United_Arab_Emirates 	  Cricket 
+Honduras 	  Art 
+Honduras 	  Cuisine 
+Honduras 	  Media 
+Honduras 	  Music 
+Honduras 	  Celebrations 
+Honduras 	  National symbols 
+Honduras 	  Folklore 
+Honduras 	  Sports 
+Israel 	  Calendar 
+Israel 	  Literature 
+Israel 	  Music and dance 
+Israel 	  Cinema and theatre 
+Israel 	  Media 
+Israel 	  Museums 
+Israel 	  Cuisine 
+Israel 	  Sports 
+Israel 	  Chess 
+Belarus 	  Arts and literature 
+Belarus 	  Dress 
+Belarus 	  Cuisine 
+Belarus 	  Sport 
+Belarus 	  Telecommunications 
+Belarus 	  World Heritage Sites 
+Papua_New_Guinea 	  Sport 
+Austria 	  Music 
+Austria 	  Art and architecture 
+Austria 	  Cinema and theatre 
+Austria 	  Science and philosophy 
+Austria 	  Literature 
+Austria 	  Food and beverages 
+Austria 	  Sports 
+Switzerland 	  Literature 
+Switzerland 	  Media 
+Switzerland 	  Sports 
+Switzerland 	  Cuisine 
+Sierra_Leone 	  Polygamy 
+Sierra_Leone 	  Food and customs 
+Sierra_Leone 	  Media 
+Sierra_Leone 	  Arts 
+Sierra_Leone 	  Sports 
+Togo 	  Sports 
+Togo 	  Olympics 
+Togo 	  Football 
+Togo 	  Basketball 
+Togo 	  Other 
+Togo 	  Media 
+Togo 	  Celebrations 
+Togo 	  Sports 
+Togo 	  Olympics 
+Togo 	  Football 
+Togo 	  Basketball 
+Togo 	  Other 
+Togo 	  Media 
+Togo 	  Celebrations 
+Hong_Kong 	  Cuisine 
+Hong_Kong 	  Cinema 
+Hong_Kong 	  Music 
+Hong_Kong 	  Sport and recreation 
+Hong_Kong 	  Cuisine 
+Hong_Kong 	  Cinema 
+Hong_Kong 	  Music 
+Hong_Kong 	  Sport and recreation 
+Paraguay 	  Sports 
+Paraguay 	  Sports 
+Laos 	  Cinema 
+Laos 	  Festivals 
+Laos 	  Media 
+Laos 	  Polygamy 
+Laos 	  Sport 
+Laos 	  Cinema 
+Laos 	  Festivals 
+Laos 	  Media 
+Laos 	  Polygamy 
+Laos 	  Sport 
+Libya 	  Cuisine 
+Libya 	  Sport 
+Libya 	  Cuisine 
+Libya 	  Sport 
+Bulgaria 	  Sports 
+Bulgaria 	  Sports 
+Serbia 	  Art and architecture 
+Serbia 	  Literature 
+Serbia 	  Music 
+Serbia 	  Theatre and cinema 
+Serbia 	  Media 
+Serbia 	  Cuisine 
+Serbia 	  Art and architecture 
+Serbia 	  Literature 
+Serbia 	  Music 
+Serbia 	  Theatre and cinema 
+Serbia 	  Media 
+Serbia 	  Cuisine 
+El_Salvador 	  Cuisine 
+El_Salvador 	  Music 
+El_Salvador 	  Sport 
+El_Salvador 	  Cuisine 
+El_Salvador 	  Music 
+El_Salvador 	  Sport 
+Lebanon 	  Arts 
+Lebanon 	  Literature 
+Lebanon 	  Music 
+Lebanon 	  Media and cinema 
+Lebanon 	  Holidays and festivals 
+Lebanon 	  Cuisine 
+Lebanon 	  Sports 
+Lebanon 	  Science and technology 
+Lebanon 	  Arts 
+Lebanon 	  Literature 
+Lebanon 	  Music 
+Lebanon 	  Media and cinema 
+Lebanon 	  Holidays and festivals 
+Lebanon 	  Cuisine 
+Lebanon 	  Sports 
+Lebanon 	  Science and technology 
+Nicaragua 	  Music 
+Nicaragua 	  Dance 
+Nicaragua 	  Literature 
+Nicaragua 	  Cuisine 
+Nicaragua 	  Media 
+Nicaragua 	  Sports 
+Nicaragua 	  Music 
+Nicaragua 	  Dance 
+Nicaragua 	  Literature 
+Nicaragua 	  Cuisine 
+Nicaragua 	  Media 
+Nicaragua 	  Sports 
+Turkmenistan 	  Mass media 
+Turkmenistan 	  Holidays 
+Turkmenistan 	  Education 
+Turkmenistan 	  Architecture 
+Turkmenistan 	  Sports 
+Turkmenistan 	  Mass media 
+Turkmenistan 	  Holidays 
+Turkmenistan 	  Education 
+Turkmenistan 	  Architecture 
+Turkmenistan 	  Sports 
+Denmark 	  Human rights 
+Denmark 	  Media 
+Denmark 	  Music 
+Denmark 	  Architecture and design 
+Denmark 	  Literature and philosophy 
+Denmark 	  Painting and photography 
+Denmark 	  Cuisine 
+Denmark 	  Sports 
+Denmark 	  Human rights 
+Denmark 	  Media 
+Denmark 	  Music 
+Denmark 	  Architecture and design 
+Denmark 	  Literature and philosophy 
+Denmark 	  Painting and photography 
+Denmark 	  Cuisine 
+Denmark 	  Sports 
+Central_African_Republic 	  Media 
+Central_African_Republic 	  Sports 
+Central_African_Republic 	  Media 
+Central_African_Republic 	  Sports 
+Finland 	  Sauna 
+Finland 	  Literature 
+Finland 	  Visual arts, design, and architecture 
+Finland 	  Music 
+Finland 	  Cinema and television 
+Finland 	  Media and communications 
+Finland 	  Cuisine 
+Finland 	  Public holidays 
+Finland 	  Sports 
+Finland 	  Sauna 
+Finland 	  Literature 
+Finland 	  Visual arts, design, and architecture 
+Finland 	  Music 
+Finland 	  Cinema and television 
+Finland 	  Media and communications 
+Finland 	  Cuisine 
+Finland 	  Public holidays 
+Finland 	  Sports 
+Slovakia 	  Folk tradition 
+Slovakia 	  Art 
+Slovakia 	  Literature 
+Slovakia 	  Cuisine 
+Slovakia 	  Sport 
+Slovakia 	  Ice hockey 
+Slovakia 	  Football 
+Slovakia 	  Folk tradition 
+Slovakia 	  Art 
+Slovakia 	  Literature 
+Slovakia 	  Cuisine 
+Slovakia 	  Sport 
+Slovakia 	  Ice hockey 
+Slovakia 	  Football 
+Singapore 	  Arts 
+Singapore 	  Cuisine 
+Singapore 	  Sport and recreation 
+Singapore 	  Media 
+Singapore 	  Arts 
+Singapore 	  Cuisine 
+Singapore 	  Sport and recreation 
+Singapore 	  Media 
+Norway 	  Human rights 
+Norway 	  Cinema 
+Norway 	  Music 
+Norway 	  Literature 
+Norway 	  Research 
+Norway 	  Architecture 
+Norway 	  Art 
+Norway 	  Cuisine 
+Norway 	  Sports 
+Norway 	  Chess 
+Norway 	  Tourism 
+Norway 	  Human rights 
+Norway 	  Cinema 
+Norway 	  Music 
+Norway 	  Literature 
+Norway 	  Research 
+Norway 	  Architecture 
+Norway 	  Art 
+Norway 	  Cuisine 
+Norway 	  Sports 
+Norway 	  Chess 
+Norway 	  Tourism 
+Costa_Rica 	  Cuisine 
+Costa_Rica 	  Sports 
+Costa_Rica 	  Cuisine 
+Costa_Rica 	  Sports 
+New_Zealand 	  Art 
+New_Zealand 	  Literature 
+New_Zealand 	  Media and entertainment 
+New_Zealand 	  Sport 
+New_Zealand 	  Cuisine 
+New_Zealand 	  Art 
+New_Zealand 	  Literature 
+New_Zealand 	  Media and entertainment 
+New_Zealand 	  Sport 
+New_Zealand 	  Cuisine 
+Ireland 	  Arts 
+Ireland 	  Literature 
+Ireland 	  Music 
+Ireland 	  Art 
+Ireland 	  Science 
+Ireland 	  Sports 
+Ireland 	  Field sports 
+Ireland 	  Boxing 
+Ireland 	  Other sports 
+Ireland 	  Recreation 
+Ireland 	  Food and drink 
+Ireland 	  Arts 
+Ireland 	  Literature 
+Ireland 	  Music 
+Ireland 	  Art 
+Ireland 	  Science 
+Ireland 	  Sports 
+Ireland 	  Field sports 
+Ireland 	  Boxing 
+Ireland 	  Other sports 
+Ireland 	  Recreation 
+Ireland 	  Food and drink 
+Liberia 	  Polygamy 
+Liberia 	  Cuisine 
+Liberia 	  Sport 
+Liberia 	  Measurement system 
+Liberia 	  Polygamy 
+Liberia 	  Cuisine 
+Liberia 	  Sport 
+Liberia 	  Measurement system 
+Kuwait 	  Television and theatre 
+Kuwait 	  Music 
+Kuwait 	  Arts 
+Kuwait 	  Cuisine 
+Kuwait 	  Museums 
+Kuwait 	  Society 
+Kuwait 	  Media 
+Kuwait 	  Literature 
+Kuwait 	  Sport 
+Kuwait 	  Suspension 
+Kuwait 	  Television and theatre 
+Kuwait 	  Music 
+Kuwait 	  Arts 
+Kuwait 	  Cuisine 
+Kuwait 	  Museums 
+Kuwait 	  Society 
+Kuwait 	  Media 
+Kuwait 	  Literature 
+Kuwait 	  Sport 
+Kuwait 	  Suspension 
+Oman 	  Dress 
+Oman 	  Music and cinema 
+Oman 	  Media 
+Oman 	  Art 
+Oman 	  Food 
+Oman 	  Sports 
+Oman 	  Dress 
+Oman 	  Music and cinema 
+Oman 	  Media 
+Oman 	  Art 
+Oman 	  Food 
+Oman 	  Sports 
+Panama 	  Handicraft 
+Panama 	  Holidays and festivities 
+Panama 	  Traditional cuisine 
+Panama 	  Traditional clothing 
+Panama 	  Literature 
+Panama 	  Sports 
+Panama 	  Handicraft 
+Panama 	  Holidays and festivities 
+Panama 	  Traditional cuisine 
+Panama 	  Traditional clothing 
+Panama 	  Literature 
+Panama 	  Sports 
+Croatia 	  Arts, literature, and music 
+Croatia 	  Media 
+Croatia 	  Cuisine 
+Croatia 	  Sports 
+Croatia 	  Arts, literature, and music 
+Croatia 	  Media 
+Croatia 	  Cuisine 
+Croatia 	  Sports 
+Georgia_(country) 	  Architecture and arts 
+Georgia_(country) 	  Media 
+Georgia_(country) 	  Music 
+Georgia_(country) 	  Cuisine 
+Georgia_(country) 	  Wine 
+Georgia_(country) 	  Sports 
+Georgia_(country) 	  Architecture and arts 
+Georgia_(country) 	  Media 
+Georgia_(country) 	  Music 
+Georgia_(country) 	  Cuisine 
+Georgia_(country) 	  Wine 
+Georgia_(country) 	  Sports 
+Eritrea 	  Cuisine 
+Eritrea 	  Music 
+Eritrea 	  Sports 
+Eritrea 	  Cuisine 
+Eritrea 	  Music 
+Eritrea 	  Sports 
+Uruguay 	  Visual arts 
+Uruguay 	  Music 
+Uruguay 	  Food 
+Uruguay 	  Literature 
+Uruguay 	  Media 
+Uruguay 	  Sport 
+Mongolia 	  Visual arts 
+Mongolia 	  Architecture 
+Mongolia 	  Music 
+Mongolia 	  Media 
+Mongolia 	  Mongolian cuisine 
+Mongolia 	  Sports and festivals 
+Bosnia_and_Herzegovina 	  Architecture 
+Bosnia_and_Herzegovina 	  Media 
+Bosnia_and_Herzegovina 	  Literature 
+Bosnia_and_Herzegovina 	  Art 
+Bosnia_and_Herzegovina 	  Music 
+Bosnia_and_Herzegovina 	  Cinema and theatre 
+Bosnia_and_Herzegovina 	  Cuisine 
+Armenia 	  Music and dance 
+Armenia 	  Art 
+Armenia 	  Cinema 
+Armenia 	  Sport 
+Armenia 	  Cuisine 
+Armenia 	  Media 
+Albania 	  Symbols 
+Albania 	  Arts 
+Albania 	  Cuisine 
+Albania 	  Media 
+Albania 	  Music 
+Albania 	  Traditional clothing 
+Albania 	  Literature 
+Albania 	  Sports 
+Albania 	  Diaspora 
+Lithuania 	  Lithuanian language 
+Lithuania 	  Literature 
+Lithuania 	  Architecture 
+Lithuania 	  Arts and museums 
+Lithuania 	  Theatre 
+Lithuania 	  Cinema 
+Lithuania 	  Music 
+Lithuania 	  Rock and protest music 
+Lithuania 	  Cuisine 
+Lithuania 	  Media 
+Lithuania 	  Public holidays and festivals 
+Lithuania 	  Sports 
+Jamaica 	  Music 
+Jamaica 	  Literature 
+Jamaica 	  Film 
+Jamaica 	  Cuisine 
+Jamaica 	  National symbols 
+Jamaica 	  Sport 
+Moldova 	  Media 
+Moldova 	  Food and beverage 
+Moldova 	  Music 
+Moldova 	  Holidays 
+Moldova 	  Sports 
+Namibia 	  Sport 
+Namibia 	  Media 
+Namibia 	  Education 
+Botswana 	  Literature and cinema 
+Botswana 	  Media 
+Botswana 	  Music 
+Botswana 	  Visual arts 
+Botswana 	  Food 
+Botswana 	  Sports 
+Qatar 	  Arts and museums 
+Qatar 	  Literature 
+Qatar 	  Media 
+Qatar 	  Music 
+Qatar 	  Sport 
+Gabon 	  Music 
+Gabon 	  Media 
+Gabon 	  Cuisine 
+Gabon 	  Sports 
+Lesotho 	  Cuisine 
+Lesotho 	  Traditional clothing 
+Slovenia 	  Heritage 
+Slovenia 	  Cuisine 
+Slovenia 	  Dance 
+Slovenia 	  Festivals, book fairs, and other events 
+Slovenia 	  Film 
+Slovenia 	  Literature 
+Slovenia 	  Authors 
+Slovenia 	  Literary history 
+Slovenia 	  Music 
+Slovenia 	  Traditional folk music 
+Slovenia 	  Modern folk (Slovenian country) music 
+Slovenia 	  Slovenska popevka 
+Slovenia 	  Popular music 
+Slovenia 	  Singer-songwriters 
+Slovenia 	  Theatre 
+Slovenia 	  Visual arts, architecture and design 
+Slovenia 	  Sports 
+North_Macedonia 	  Cuisine 
+North_Macedonia 	  Sport 
+North_Macedonia 	  Cinema 
+North_Macedonia 	  Media 
+North_Macedonia 	  Public holidays 
+Latvia 	  Cuisine 
+Latvia 	  Sport 
+Kosovo 	  Arts 
+Kosovo 	  Cuisine 
+Kosovo 	  Sports 
+Kosovo 	  Music 
+Kosovo 	  Cinema 
+Kosovo 	  Holidays 
+Guinea-Bissau 	  Media 
+Guinea-Bissau 	  Music 
+Guinea-Bissau 	  Cuisine 
+Guinea-Bissau 	  Film 
+Guinea-Bissau 	  Sports 
+Equatorial_Guinea 	  Tourism 
+Equatorial_Guinea 	  Media and communications 
+Equatorial_Guinea 	  Music 
+Equatorial_Guinea 	  Cinema 
+Equatorial_Guinea 	  Sports 
+Bahrain 	  Art 
+Bahrain 	  Literature 
+Bahrain 	  Music 
+Bahrain 	  Entertainment 
+Bahrain 	  Sports 
+Bahrain 	  Holidays 
+Trinidad_and_Tobago 	  Literature 
+Trinidad_and_Tobago 	  Art and design 
+Trinidad_and_Tobago 	  Music 
+Trinidad_and_Tobago 	  Dance 
+Trinidad_and_Tobago 	  Other 
+Trinidad_and_Tobago 	  Sports 
+Trinidad_and_Tobago 	  Olympic sports 
+Trinidad_and_Tobago 	  Cricket 
+Trinidad_and_Tobago 	  Football 
+Trinidad_and_Tobago 	  Basketball 
+Trinidad_and_Tobago 	  Other sports 
+Trinidad_and_Tobago 	  National symbols 
+Trinidad_and_Tobago 	  Flag 
+Trinidad_and_Tobago 	  Coat of arms 
+Trinidad_and_Tobago 	  Orders and decorations 
+Trinidad_and_Tobago 	  National anthem and national songs 
+Trinidad_and_Tobago 	  National flower 
+Trinidad_and_Tobago 	  National birds 
+Estonia 	  Music 
+Estonia 	  Literature 
+Estonia 	  Media 
+Estonia 	  Architecture 
+Estonia 	  Holidays 
+Estonia 	  Cuisine 
+Estonia 	  Sports 
+East_Timor 	  Arts 
+East_Timor 	  Cinema and TV drama 
+East_Timor 	  Cuisine 
+East_Timor 	  Sports 
+Mauritius 	  Art 
+Mauritius 	  Architecture 
+Mauritius 	  Literature 
+Mauritius 	  Music 
+Mauritius 	  Cuisine 
+Mauritius 	  Holidays and festivals 
+Mauritius 	  Sports 
+Djibouti 	  Music 
+Djibouti 	  Literature 
+Djibouti 	  Sport 
+Djibouti 	  Cuisine 
+Fiji 	  Sport 
+Fiji 	  Rugby union 
+Fiji 	  Rugby league 
+Fiji 	  Association football 
+Cyprus 	  Arts 
+Cyprus 	  Music 
+Cyprus 	  Literature 
+Cyprus 	  Mass media 
+Cyprus 	  Cinema 
+Cyprus 	  Cuisine 
+Cyprus 	  Sports 
+Comoros 	  Marriage 
+Comoros 	  Kinship and social structure 
+Comoros 	  Music 
+Comoros 	  Media 
+Bhutan 	  Dress 
+Bhutan 	  Architecture 
+Bhutan 	  Public holidays 
+Bhutan 	  Film industry 
+Bhutan 	  Music and dance 
+Bhutan 	  Family structure 
+Bhutan 	  Cuisine 
+Bhutan 	  Sports 
+Bhutan 	  Women in the workforce 
+Bhutan 	  Women in the household 
+Bhutan 	  Women's health 
